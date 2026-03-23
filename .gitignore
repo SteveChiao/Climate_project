@@ -1,0 +1,12 @@
+.DS_Store
+.ipynb_checkpoints
+*.nc
+*.grib
+*.hdf
+*.tif
+*.tmp
+*.csv
+data/
+AR6_data/
+程式作業/Daxue＿village/AR6_data/
+程式作業/Daxue＿village/figue/
