@@ -1,12 +1,26 @@
+# ===== 系統檔 =====
 .DS_Store
-.ipynb_checkpoints
+.ipynb_checkpoints/
+
+# ===== 大型資料 =====
 *.nc
 *.grib
 *.hdf
 *.tif
 *.tmp
-*.csv
+
+# ===== 原始資料 =====
 data/
 AR6_data/
 程式作業/Daxue＿village/AR6_data/
-程式作業/Daxue＿village/figue/
+
+# ===== 圖片策略 =====
+# 先全部忽略 png
+*.png
+
+# 但允許特定資料夾（你要同步的）
+!figures/
+!figures/**/*.png
+
+# （如果你要用舊路徑）
+!程式作業/Daxue＿village/figue/**/*.png
