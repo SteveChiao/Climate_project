@@ -19,8 +19,16 @@ AR6_data/
 *.png
 
 # 但允許特定資料夾（你要同步的）
+<<<<<<< HEAD
 !figures/
 !figures/**/*.png
 
 # （如果你要用舊路徑）
 !程式作業/Daxue＿village/figue/**/*.png
+=======
+!figue/
+!figue/*.png
+
+# （如果你要用舊路徑）
+!程式作業/Daxue＿village/figue/*.png
+>>>>>>> b47ee9e (fuckupdate)
