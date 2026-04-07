@@ -1,0 +1,10 @@
+﻿model,ssp,gen_2004,gen_2034,difference,pct_change
+ACCESS-CM2,ssp245,4.0,5.0,1.0,25.0
+ACCESS-CM2,ssp370,4.0,5.0,1.0,25.0
+ACCESS-CM2,ssp585,4.0,4.0,0.0,0.0
+EC-Earth3,ssp245,4.0,4.0,0.0,0.0
+EC-Earth3,ssp370,4.0,4.0,0.0,0.0
+EC-Earth3,ssp585,4.0,4.0,0.0,0.0
+TaiESM1,ssp245,4.0,5.0,1.0,25.0
+TaiESM1,ssp370,4.0,4.0,0.0,0.0
+TaiESM1,ssp585,4.0,5.0,1.0,25.0
