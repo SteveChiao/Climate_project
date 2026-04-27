@@ -1,0 +1,31 @@
+﻿organism,scenario,season_group,slope_share_percent_per_year
+Aedes aegypti,historical,May-Oct,
+Aedes aegypti,historical,Nov-Apr,
+Aedes aegypti,rcp26,May-Oct,-0.03890926760577482
+Aedes aegypti,rcp26,Nov-Apr,0.03890926760577549
+Aedes aegypti,rcp45,May-Oct,-0.024988064173006613
+Aedes aegypti,rcp45,Nov-Apr,0.0249880641730072
+Aedes aegypti,rcp60,May-Oct,-0.007465425687347789
+Aedes aegypti,rcp60,Nov-Apr,0.007465425687348862
+Aedes aegypti,rcp85,May-Oct,-0.0224008166132233
+Aedes aegypti,rcp85,Nov-Apr,0.022400816613224357
+Aedes albopictus,historical,May-Oct,
+Aedes albopictus,historical,Nov-Apr,
+Aedes albopictus,rcp26,May-Oct,-0.027269019658422808
+Aedes albopictus,rcp26,Nov-Apr,0.027269019658423835
+Aedes albopictus,rcp45,May-Oct,-0.016872294395023142
+Aedes albopictus,rcp45,Nov-Apr,0.016872294395024322
+Aedes albopictus,rcp60,May-Oct,-0.003630230391781296
+Aedes albopictus,rcp60,Nov-Apr,0.0036302303917816886
+Aedes albopictus,rcp85,May-Oct,-0.015691601324384824
+Aedes albopictus,rcp85,Nov-Apr,0.015691601324385705
+Cockroach,historical,May-Oct,
+Cockroach,historical,Nov-Apr,
+Cockroach,rcp26,May-Oct,-0.07883827048697198
+Cockroach,rcp26,Nov-Apr,0.07883827048697294
+Cockroach,rcp45,May-Oct,-0.04557895115679344
+Cockroach,rcp45,Nov-Apr,0.045578951156794244
+Cockroach,rcp60,May-Oct,-0.01987387767415863
+Cockroach,rcp60,Nov-Apr,0.019873877674159338
+Cockroach,rcp85,May-Oct,-0.034801490317864316
+Cockroach,rcp85,Nov-Apr,0.03480149031786542
